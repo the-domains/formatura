@@ -1,0 +1,14 @@
+layout_spectrum: 0.5018113674595952
+typography_spectrum: 0.694195648888126
+color:
+  brandStrength: 0.2638412117958069
+  lightness: 0.22117170109413564
+  saturation: 0.6034148542676121
+  rhythmicContrast: 0.521744241239503
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: formatura
